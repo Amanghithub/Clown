@@ -21,7 +21,7 @@ function setup(){
 function draw(){
     image(camera,0,0,300,300);
     
-    image(clown_nose,nose_x,nose_y,250,270);
+    image(clown_nose,nose_x,nose_y,250,260);
     //image(goggles,left_eye_x,left_eye_y,80,60);
 }
 
